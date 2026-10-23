@@ -24,5 +24,5 @@ Misalnya fungsi len() untuk mengetahui panjang string, yang tidak
 berlaku pada variabel numerik (misalnya integer).
 """
 
-x=333
-len(x) 
+value = "Python"
+print(len(value))
